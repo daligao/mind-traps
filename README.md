@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%93-green)](LICENSE)
 
-**[Play Now](https://ordinarymantrying.com/tools/mind-traps.html)** | **[Live Version](https://ordinarymantrying.com/)** | **[Psychology Laws Index](https://ordinarymantrying.com/tools/psychology-laws-index.html)**
+**[Play Now →](https://ordinarymantrying.com/tools/mind-traps.html)**
 
 ---
 
@@ -79,7 +79,7 @@ Mind Traps is an interactive psychology game that teaches you **40 cognitive bia
 ## 🚀 Quick Start
 
 ### Option 1: Play Online
-Visit **[ordinarymantrying.com/tools/mind-traps.html](https://ordinarymantrying.com/tools/mind-traps.html)** to play immediately.
+Visit **ordinarymantrying.com/tools/mind-traps.html** to play immediately in your browser.
 
 ### Option 2: Local Installation
 1. Clone this repository:
@@ -152,21 +152,11 @@ After playing Mind Traps, you'll understand:
 
 ---
 
-## 🔗 Resources
+## 🔗 Related Resources
 
-### Related Content
-
-- **[Psychology Laws Blog](https://ordinarymantrying.com/)** — 40+ in-depth articles (800+ words each)
-- **[Psychology Laws Index](https://ordinarymantrying.com/tools/psychology-laws-index.html)** — Quick reference
-- **[Awesome Psychology Laws](https://github.com/daligao/awesome-psychology-laws)** — Curated collection
-- **[100 Life Simulators](https://ordinarymantrying.com/tools/life-a4/)** — Interactive historical simulations
-
-### Scientific Sources
-
-- Kahneman, D., & Tversky, A. (1974). Judgment under Uncertainty: Heuristics and Biases
-- Dunning, D., & Kruger, J. (1999). Unskilled and Unaware of It
-- Wald, A. (1943). A Method of Estimating Missing Values in Multivariate Data
-- Gilovich, T., Griffin, D., & Kahneman, D. (2002). Heuristics and Biases
+- **Awesome Psychology Laws** — Curated collection on GitHub (github.com/daligao/awesome-psychology-laws)
+- **Blog Articles** — Detailed explanations of psychology concepts
+- **Life Simulators** — Interactive historical decision scenarios
 
 ---
 
@@ -199,7 +189,7 @@ See [LICENSE](LICENSE) for details.
 ## 🤝 Contributing
 
 ### Report Issues
-Found a bug? Wrong scenario? Typo? Open an [Issue](https://github.com/daligao/mind-traps/issues).
+Found a bug? Wrong scenario? Typo? Open an Issue on GitHub.
 
 ### Suggest New Scenarios
 Submit a PR with new scenarios for existing laws. Include:
@@ -210,7 +200,7 @@ Submit a PR with new scenarios for existing laws. Include:
 
 ### Improve Content
 - Better wording for explanations
-- Fix broken links
+- Better scenarios
 - Add translations
 - Improve UI/UX
 
@@ -248,11 +238,11 @@ Teachers and educators: feel free to embed this in courses or learning materials
 ## 📞 Support
 
 ### Questions?
-- Check the [Psychology Laws Blog](https://ordinarymantrying.com/) for detailed explanations
-- Open an [Issue](https://github.com/daligao/mind-traps/issues)
+- Open an Issue on GitHub
+- Visit ordinarymantrying.com for more information
 
 ### Feedback?
-- Found a broken scenario?
+- Found a bug or broken scenario?
 - Disagree with an answer?
 - Want to add something?
 - Submit an Issue or PR!
@@ -262,8 +252,6 @@ Teachers and educators: feel free to embed this in courses or learning materials
 ## 🌟 Star This Project
 
 If Mind Traps helped your decision-making or learning, consider starring this repository! It helps others discover it.
-
-⭐ [Star on GitHub](https://github.com/daligao/mind-traps)
 
 ---
 
@@ -281,13 +269,11 @@ If Mind Traps helped your decision-making or learning, consider starring this re
 
 ## 👨‍💻 Author
 
-Created by [Ordinary Man Trying](https://ordinarymantrying.com) — exploring psychology, decision-making, and human behavior through interactive tools.
+Created by Ordinary Man Trying — exploring psychology, decision-making, and human behavior through interactive tools.
 
-- Website: https://ordinarymantrying.com/
-- Psychology Laws: https://ordinarymantrying.com/tools/psychology-laws-index.html
-- Life Simulators: https://ordinarymantrying.com/tools/life-a4/
+- Website: ordinarymantrying.com
+- Project Hub: ordinarymantrying.com/tools
 
 ---
 
 **Play Mind Traps today. Test your psychology knowledge. Improve your decisions.** 🎮
-
